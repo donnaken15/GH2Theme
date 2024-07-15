@@ -1,0 +1,4 @@
+donnaken15 - sprite/sound ripping, scripts, gfx editing/ripping
+used PCSX2, GH2DX (for xbox unheld frets, notes, meta lick, score meter)
+marie - star gem model/sprite sheets
+LysiX - additional sound rips
